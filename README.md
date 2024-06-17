@@ -5,7 +5,7 @@ Atliq Hardware, a tech company, is transitioning from Excel to MySQL to handle i
 
 The project involves Finance analytics, Market analytics, and Supply chain analytics to derive decision-making insights.
 
-![Problem Statement Image](path/to/problem-statement-image.jpg)
+![Problem Statement Image](https://github.com/SajalVats/SQL-Finance-Market-Supply-Chain-Analytics/blob/main/AtliQ%20Warehouse.png)
 
 # Business Model
 
