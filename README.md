@@ -30,7 +30,7 @@ We need to generate individual product sales, aggregated on a monthly basis, for
 
 Create a report for the top market and top customer by net sales for a given financial year. This will help us have a holistic view of the trends and take required actions.
 
-![Market Analytics Image](path/to/market-analytics-image.jpg)
+![Market Analytics Image](https://github.com/SajalVats/SQL-Finance-Market-Supply-Chain-Analytics/blob/main/Market%20Analytics.png)
 
 ## Supply Chain Analytics
 
