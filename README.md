@@ -11,7 +11,7 @@ The project involves Finance analytics, Market analytics, and Supply chain analy
 
 Atliq's business model involves selling hardware to customers like Croma and BestBuy, who in turn sell to the end consumer.
 
-![Business Model Image](path/to/business-model-image.jpg)
+![Business Model Image](https://github.com/SajalVats/SQL-Finance-Market-Supply-Chain-Analytics/blob/main/Atliq%20Business%20Model.png)
 
 # Types of Analytics
 
