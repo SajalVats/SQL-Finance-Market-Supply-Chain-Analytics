@@ -36,10 +36,8 @@ Create a report for the top market and top customer by net sales for a given fin
 
 Create an aggregate forecast accuracy report for all customers in a given fiscal year. Doing this will allow us to track the accuracy of the forecasts we make for a given customer.
 
-![Supply Chain Analytics Image](path/to/supply-chain-analytics-image.jpg)
+![Supply Chain Analytics Image](https://github.com/SajalVats/SQL-Finance-Market-Supply-Chain-Analytics/blob/main/Supply%20Chain%20SS.png)
 
 # Final Outcome
 
 These SQL-driven analytics will help AtliQ make sense of huge volumes of data and make growth-propelling business decisions.
-
-![Final Outcome Image](path/to/final-outcome-image.jpg)
