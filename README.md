@@ -24,7 +24,7 @@ We need to generate individual product sales, aggregated on a monthly basis, for
 - Sold Quantity
 - Gross Price
 
-![Finance Analytics Image](path/to/finance-analytics-image.jpg)
+![Finance Analytics Image](https://github.com/SajalVats/SQL-Finance-Market-Supply-Chain-Analytics/blob/main/Finance%20Analytics.png)
 
 ## Market Analytics
 
